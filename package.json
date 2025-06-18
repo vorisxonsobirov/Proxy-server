@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node Proxy.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
